@@ -9,6 +9,10 @@ Constraint
 Ask only questions that are relevant to the situation and to the previous answers. Don’t ask for all inputs at once.
  */
 
+/*
+ *  UCF COP3330 Summer 2021 Assignment 1 Solution
+ *  Copyright 2021 Dilly Jacques
+ */
 
 
 package programming1;
